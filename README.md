@@ -1,4 +1,4 @@
-<h1 align="center">Salve, eu sou o Arthur 🎮</h1>
+<h1 align="center">Eu sou o Arthur </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Dev+em+forma%C3%A7%C3%A3o+%7C+Ci%C3%AAncias+Cont%C3%A1beis;Construindo+o+Black+Flag+%F0%9F%9A%A9;Gamer+%2B+Hist%C3%B3ria+%2B+C%C3%B3digo" alt="Typing SVG" />
@@ -30,7 +30,7 @@
 
 ### 🚩 Projeto em destaque
 
-> **Black Flag** — app mobile de games feito em React Native, com catálogo de jogos, avaliações por estrelas e visual dark red inspirado na estética gamer underground.
+> **Studio Débora Pereira** — site desenvolvido para divulgação e apresentação do estúdio, com visual moderno e responsivo.
 
 ---
 
