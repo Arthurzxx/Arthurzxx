@@ -1,10 +1,12 @@
 <h1 align="center">Eu sou o Arthur </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Dev+em+forma%C3%A7%C3%A3o+%7C+Ci%C3%AAncias+Cont%C3%A1beis;Construindo+o+Black+Flag+%F0%9F%9A%A9;Gamer+%2B+Hist%C3%B3ria+%2B+C%C3%B3digo" alt="Typing SVG" />
-</p>
-
 ---
+### 🧭 Sobre mim
+
+- 🎓 Cursando **Desenvolvimento de Sistemas**
+- 💻 Atualmente construindo o **Black Flag** — um app de games em React Native, tema dark red
+- 📊 Curto misturar mundos diferentes: código e história
+
 
 ### 🛠️ Tech Stack
 
@@ -12,26 +14,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthurzxx&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurzxx&theme=dracula&hide_border=true" width="48%" />
-</p>
-
 ---
 
 ### 🚩 Projeto em destaque
 
-> **Studio Débora Pereira** — site desenvolvido para divulgação e apresentação do estúdio, com visual moderno e responsivo.
+> **Studio Débora Pereira** — meu primeiro site que realmente ficou bom, desenvolvido sob encomenda para uma cliente real. Um marco importante na minha jornada como dev, mostrando que consigo entregar um projeto completo do início ao fim.
 
 ---
-
-<p align="center">💬 Ask me about: React Native, Contabilidade, Segunda Guerra Mundial ou a barra de um verso novo</p>
