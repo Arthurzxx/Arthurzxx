@@ -26,4 +26,4 @@
 ---
 
 ### 📧 E-mail para contato:
-arthurfreitasb2009@gmail.com" 
+arthurfreitasb2009@gmail.com
