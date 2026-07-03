@@ -3,7 +3,7 @@
 ---
 ### 🧭 Sobre mim
 
-- 🎓 Cursando **Desenvolvimento de Sistemas**
+- 🎓 Cursando **Téc. Desenvolvimento de Sistemas**
 - 💻 Atualmente construindo o **Black Flag** — um app de games em React Native, tema dark red
 - 📊 Curto misturar mundos diferentes: código e história
 
