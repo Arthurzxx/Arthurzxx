@@ -24,6 +24,6 @@
 
 ### 🚩 Projeto em destaque
 
-> **Studio Débora Pereira** — meu primeiro site que realmente ficou bom, desenvolvido sob encomenda para uma cliente real. Um marco importante na minha jornada como dev, mostrando que consigo entregar um projeto completo do início ao fim.
+> **Studio Débora Pereira** — meu primeiro site que realmente ficou bom, desenvolvido sob encomenda para uma cliente real. Um marco importante na minha jornada como dev, mostrando que consigo entregar um projeto completo do início ao fim. Segue o dendereço do site "https://studio-debora-pereira-orrks00yc-arthurs-projects-6473be63.vercel.app/"
 
 ---
