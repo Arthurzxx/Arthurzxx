@@ -4,7 +4,7 @@
 
 ### 🧭 Sobre mim
 - 🎓 Cursando **Téc. Desenvolvimento de Sistemas**
-- 💻 Atualmente construindo o **Black Flag** — um app de games em React Native, tema dark red
+- 💻 Atualmente construindo o **Nausicaä** — TCC que apresenta uma biblioteca com várias funcionalidades, com o objetivos de ensinar e resolver conflitos globais.
 - 📊 Curto misturar mundos diferentes: código e história
 
 ---
